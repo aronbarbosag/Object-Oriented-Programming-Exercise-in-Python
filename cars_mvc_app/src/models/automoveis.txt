@@ -1,0 +1,3 @@
+abc123,Onyx active,Chevrolet, 2018,45000.0
+otw34gt,byd,byd, 2030,90000.0
+lfh123,Lamborghini,Ferrari, 2019,1000000.0
