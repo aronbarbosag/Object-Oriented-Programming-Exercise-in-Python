@@ -1,4 +1,4 @@
-from sqlalchemy import create_engine,Table,MetaData,select,inspect
+from sqlalchemy import create_engine,Table,MetaData,select,inspect,delete
 
 engine = create_engine('sqlite:///db_course.sqlite')
 metadata = MetaData()
