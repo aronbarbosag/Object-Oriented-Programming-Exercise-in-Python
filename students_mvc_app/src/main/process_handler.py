@@ -1,4 +1,5 @@
 from src.main.constructor.create_student_constructor import create_student_constructor
+from src.main.constructor.edit_student_constructor import edit_student_constructor
 from src.main.constructor.list_students_constructor import list_students_constructor
 from src.views.menu_view import show_menu
 
@@ -20,6 +21,7 @@ def start():
 
         elif command == 3:
             print(f"Comando {command}\n\n")
+            edit_student_constructor()
         elif command == 4:
             print(f"Comando {command}\n\n")
         else:
