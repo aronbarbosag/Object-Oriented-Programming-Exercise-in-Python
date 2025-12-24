@@ -30,9 +30,9 @@ class CreateStudentController:
         response = {
             "Count": 1,
             "Attributes": {
-                "id": view_response["matricula"],
+                "id": int(view_response["matricula"]),
                 "name": view_response["nome"],
-                "cr": view_response["CR"],
+                "cr": float(view_response["CR"]),
             },
         }
 
