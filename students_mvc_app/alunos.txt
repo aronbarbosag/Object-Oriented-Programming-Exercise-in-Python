@@ -1,7 +1,0 @@
-21345,Aron Freire,10.0
-2345,joao,9.0
-4567,John,8.2
-90021,Biazinha,9.0
-7168,Renatinho,8
-8311,Isabel,8.7
-45678,bailarina,6.7
